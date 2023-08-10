@@ -60,9 +60,3 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dungxibo123&show_icons=true&locale=en&layout=compact&theme=radical&hide=HTML,Jupyter%20Notebook" alt="dungxibo123" /></p>
-
-
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dungxibo123&show_icons=true&locale=en&theme=radical" alt="dungxibo123" /></p>
